@@ -1,0 +1,3 @@
+tôi cần  tạo 1 trang web từ html css js  gồm phần header gồm link Điền Form thông tin gồm (họ tên , số điện thoại , email ) sau khi nhấn nút Gửi từ form thì sẽ xuất thông tin ra  bảng thông tin xuất ra từ link Điền form đó
+----------------------------------------
+tôi cần  tạo 1 trang web từ html css js  . Gồm Link liên kết có tên là Nhập Thông Tin và bảng Table (Họ Tên , Số điện thoại , email ). sau khi nhấn vào Link liên kế có tên là Nhập Thông Tin thì xuất ra form yêu cầu nhập Họ Tên , Số điện thoại , email và sau đó nhấn nút gửi . sau khi nhấn nút gửi thì thông tin vừa nhấp ở Modal form sẽ xuất ra bảng Table 
